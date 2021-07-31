@@ -1,11 +1,5 @@
-<h1 align="center">Olá, meu nome é Belmiro</h1>
+<h1 align="center">Olá, eu sou o Belmiro. Bem-vindo ao meu perfil do GitHub!</h1>
 <h3 align="center">Sou um desenvolvedor front-end</h3>
-
-<p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=belmirofss&label=Profile%20views&color=0e75b6&style=flat" alt="belmirofss" />
-</p>
-
-- 🔭 Atualmente eu trabalho na **everis**
 
 - 🌱 Meu conhecimento é todo voltado para o front-end - **Angular e React**
 
@@ -13,9 +7,8 @@
 
 - 📝 Eu escrevo alguns artigos em: [https://medium.com/@belmirofss](https://medium.com/@belmirofss)
 
-- 📫 Meu e-mail é **belmirofss@gmail.com**, fique a vontade!
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Alguns links:</h3>
 <p align="left">
 	<a href="https://linkedin.com/in/belmiroflavio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="belmiroflavio" height="30" width="40" /></a>
 	<a href="https://medium.com/@belmirofss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@belmirofss" height="30" width="40" /></a>
@@ -48,9 +41,3 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 	</a>
 </p>
-
-<p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=belmirofss&show_icons=true&locale=en&layout=compact" alt="belmirofss" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=belmirofss&show_icons=true&locale=en" alt="belmirofss" /></p>
