@@ -1,8 +1,6 @@
 <h1 align="center">Olá, eu sou o Belmiro. Bem-vindo ao meu perfil do GitHub!</h1>
 <h3 align="center">Sou um desenvolvedor front-end</h3>
 
-- 🌱 Meu conhecimento é todo voltado para o front-end - **Angular e React**
-
 - 👨‍💻 Meus projetos públicos estão disponíveis em: [https://github.com/belmirofss?tab=repositories](https://github.com/belmirofss?tab=repositories)
 
 - 📝 Eu escrevo alguns artigos em: [https://medium.com/@belmirofss](https://medium.com/@belmirofss)
