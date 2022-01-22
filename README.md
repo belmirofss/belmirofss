@@ -1,23 +1,4 @@
 <h3 style="margin-bottom: 0">Olá, seja bem-vindo!</h3>
-<h5 style="margin-bottom: 0">Desenvolvedor front-end apaixonado pelo Angular.</h5>
-
-<hr />
-
-
-- 👨‍💻 Meus repositórios públicos estão disponíveis em: [https://github.com/belmirofss?tab=repositories](https://github.com/belmirofss?tab=repositories)
-
-- 📝 Eu escrevo alguns artigos em: [https://medium.com/@belmirofss](https://medium.com/@belmirofss)
-
-
-<h5 align="left">Tecnologias</h5>
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
 
 <hr />
 
