@@ -1,5 +1,5 @@
-<h3 style="margin-bottom: 0">Olá, seja bem-vindo ao meu perfil do GitHub!</h3>
-<h5 style="margin-bottom: 0">Sou um desenvolvedor front-end apaixonado pelo Angular.</h5>
+<h3 style="margin-bottom: 0">Olá, seja bem-vindo!</h3>
+<h5 style="margin-bottom: 0">Desenvolvedor front-end apaixonado pelo Angular.</h5>
 
 <hr />
 
